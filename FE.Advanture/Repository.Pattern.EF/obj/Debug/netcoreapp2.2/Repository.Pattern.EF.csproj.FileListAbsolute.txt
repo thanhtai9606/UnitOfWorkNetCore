@@ -1,0 +1,8 @@
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\bin\Debug\netcoreapp2.2\Repository.Pattern.EF.deps.json
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\bin\Debug\netcoreapp2.2\Repository.Pattern.EF.dll
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\bin\Debug\netcoreapp2.2\Repository.Pattern.EF.pdb
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\obj\Debug\netcoreapp2.2\Repository.Pattern.EF.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\obj\Debug\netcoreapp2.2\Repository.Pattern.EF.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\obj\Debug\netcoreapp2.2\Repository.Pattern.EF.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\obj\Debug\netcoreapp2.2\Repository.Pattern.EF.dll
+D:\EMCS_System\FE\FE.Advanture\Repository.Pattern.EF\obj\Debug\netcoreapp2.2\Repository.Pattern.EF.pdb

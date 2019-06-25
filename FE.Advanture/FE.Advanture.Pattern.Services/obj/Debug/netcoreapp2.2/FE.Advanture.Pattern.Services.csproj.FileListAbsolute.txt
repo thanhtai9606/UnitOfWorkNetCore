@@ -1,0 +1,12 @@
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\bin\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.deps.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\bin\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\bin\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\bin\Debug\netcoreapp2.2\Repository.Pattern.EF.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\bin\Debug\netcoreapp2.2\Repository.Pattern.EF.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.csprojAssemblyReference.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.csproj.CopyComplete
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Pattern.Services\obj\Debug\netcoreapp2.2\FE.Advanture.Pattern.Services.pdb

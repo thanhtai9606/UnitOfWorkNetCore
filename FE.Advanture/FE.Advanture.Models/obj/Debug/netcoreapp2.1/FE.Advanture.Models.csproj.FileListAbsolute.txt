@@ -1,0 +1,15 @@
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\FE.Advanture.Models.deps.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\FE.Advanture.Models.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\FE.Advanture.Models.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.csproj.CopyComplete
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Models\obj\Debug\netcoreapp2.1\FE.Advanture.Models.pdb

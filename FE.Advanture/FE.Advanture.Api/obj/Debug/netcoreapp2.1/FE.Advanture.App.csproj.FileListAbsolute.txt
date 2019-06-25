@@ -1,0 +1,13 @@
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\bin\Debug\netcoreapp2.1\FE.Advanture.App.deps.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\bin\Debug\netcoreapp2.1\FE.Advanture.App.runtimeconfig.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\bin\Debug\netcoreapp2.1\FE.Advanture.App.runtimeconfig.dev.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\bin\Debug\netcoreapp2.1\FE.Advanture.App.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\bin\Debug\netcoreapp2.1\FE.Advanture.App.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.RazorAssemblyInfo.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.RazorAssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.RazorTargetAssemblyInfo.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.App\obj\Debug\netcoreapp2.1\FE.Advanture.App.pdb

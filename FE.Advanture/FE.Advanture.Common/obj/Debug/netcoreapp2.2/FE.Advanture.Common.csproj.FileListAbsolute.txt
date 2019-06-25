@@ -1,0 +1,16 @@
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\bin\Debug\netcoreapp2.2\FE.Advanture.Common.deps.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\bin\Debug\netcoreapp2.2\FE.Advanture.Common.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\bin\Debug\netcoreapp2.2\FE.Advanture.Common.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\obj\Debug\netcoreapp2.2\FE.Advanture.Common.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\obj\Debug\netcoreapp2.2\FE.Advanture.Common.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\obj\Debug\netcoreapp2.2\FE.Advanture.Common.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\obj\Debug\netcoreapp2.2\FE.Advanture.Common.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Utility\obj\Debug\netcoreapp2.2\FE.Advanture.Common.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\bin\Debug\netcoreapp2.2\FE.Advanture.Common.deps.json
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\bin\Debug\netcoreapp2.2\FE.Advanture.Common.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\bin\Debug\netcoreapp2.2\FE.Advanture.Common.pdb
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\obj\Debug\netcoreapp2.2\FE.Advanture.Common.csproj.CoreCompileInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\obj\Debug\netcoreapp2.2\FE.Advanture.Common.AssemblyInfoInputs.cache
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\obj\Debug\netcoreapp2.2\FE.Advanture.Common.AssemblyInfo.cs
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\obj\Debug\netcoreapp2.2\FE.Advanture.Common.dll
+D:\EMCS_System\FE\FE.Advanture\FE.Advanture.Common\obj\Debug\netcoreapp2.2\FE.Advanture.Common.pdb
